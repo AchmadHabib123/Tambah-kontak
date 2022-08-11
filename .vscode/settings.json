@@ -1,0 +1,6 @@
+{
+    "diffEditor.maxFileSize": 1000,
+    "editor.inlineSuggest.enabled": true,
+    "diffEditor.renderIndicators": false,
+    "workbench.settings.openDefaultSettings": true
+}
